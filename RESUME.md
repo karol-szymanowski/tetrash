@@ -28,7 +28,7 @@
 
 **GCP services:** `Firebase` `GKE` `Cloud storage` `Cloud functions` `Cloud sql`
 
-**Projects & teams:** `Working in distributed team` `Agile` `Scrum`
+**Projects & teams:** `Working in a distributed team` `Agile` `Scrum`
 
 **Languages:** `Polish - native` `English - B2`
 

@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## Certificates
-[![AWS Certified Solutions Architect – Associate](static/images/aws-certified-solutions-architect-associate.png)](https://www.youracclaim.com/badges/18ca0a23-f1a3-4a7b-9d9c-815ff7528222/public_url)
+I am a self-taught programmer with two years of professional experience in creating web applications. I am a team player who is very interested in creating a enjoyable work environment by writing maintainable code, sharing experience or implementing good DevOps practices and being positive.
 
 

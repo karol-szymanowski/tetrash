@@ -20,7 +20,7 @@
 
 **Programming:** `Node.js` `Typescript` `Graphql` `Event-driven architecture` `Hexagonal architecture` `Serverless`
 
-**Devops:** `Azure devops` `CircleCI` `Terraform` `Pullumi` `Kubernetes`
+**Devops:** `Azure devops` `CircleCI` `Terraform` `Pullumi` `Kubernetes` `Docker`
 
 **Databases, queues & message brokers:** `Mysql/Mariadb` `Postgres` `MongoDB` `Redis` `Rabbitmq`
 

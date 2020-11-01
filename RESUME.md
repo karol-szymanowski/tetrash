@@ -1,6 +1,6 @@
 # Karol Szymanowski
 [public.szymanowski@gmail.com](mailto:public.szymanowski@gmail.com) - [LinkedIn](https://www.linkedin.com/in/karol-sz/) - [Github](https://github.com/tetrash)
-> Self-taught programmer with two years of professional experience in creating web applications. I am a team player who is very interested in creating a friendly work environment by writing maintainable code, sharing experience or implementing good DevOps practices and being positive.
+> Self-taught programmer with two years of professional experience in creating web applications. I am a team player who is very keen on creating a friendly work environment by writing maintainable code, sharing experiences or implementing good DevOps practices and being positive.
 
 ## WORK EXPERIENCE
 
@@ -29,6 +29,8 @@
 **GCP services:** `Firebase` `GKE` `Cloud storage` `Cloud functions` `Cloud sql`
 
 **Projects & teams:** `Working in distributed team` `Agile` `Scrum`
+
+**Languages:** `Polish - native` `English - B2`
 
 ## CERTIFICATES
 

@@ -4,8 +4,12 @@
 
 ## WORK EXPERIENCE
 
+### Software engineer at [Schibsted](https://netguru.com)
+*`01.2021 - now`*
+> Keywords: `Node.js` `Typescript` `AWS` `Kubernetes` `DevOps` `Heroku`
+
 ### Node.js developer at [Netguru](https://netguru.com)
-*`06.2019 - now`*
+*`06.2019 - 12.2020`*
 > I've been involved in numerous projects for clients in the real estate, medical and non-profit industries. My responsibilities range from developing, testing and maintaining APIs to evaluating projects, advising on potential technologies, or participating in the recruitment process.
 >
 > Keywords: `Node.js` `Typescript` `AWS` `GCP` `Kubernetes` `Graphql` `DevOps` `Serverless`

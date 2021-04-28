@@ -36,7 +36,7 @@
 
 ## PROJECTS & ARTICLES
 
-### [Highly available kubernetes cluster runnning on raspberry pi](https://github.com/tetrash/k8s-rpi-cluster-presentation)
+- [Highly available kubernetes cluster runnning on raspberry pi](https://github.com/tetrash/k8s-rpi-cluster-presentation)
 > I built a kubernetes cluster that runs on several raspberry pi and serves as my personal sandbox where I deploy my projects for a fraction of the cost of a cloud solution. I used ansible and k3s to automate the entire process and tools such as helm, prometheus or dex to improve monitoring, access and cluster management.
 
-### [The CKA Certificate From a Software Developer’s Perspective](https://www.netguru.com/codestories/the-cka-certificate-from-a-software-developers-perspective)
+- [The CKA Certificate From a Software Developer’s Perspective](https://www.netguru.com/codestories/the-cka-certificate-from-a-software-developers-perspective)

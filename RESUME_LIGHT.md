@@ -1,24 +1,23 @@
 # Karol Szymanowski
 [public.szymanowski@gmail.com](mailto:public.szymanowski@gmail.com) - [LinkedIn](https://www.linkedin.com/in/karol-sz/) - [Github](https://github.com/tetrash)
-> Self-taught programmer with two years of professional experience in creating web applications. I am a team player who is very keen on creating a friendly work environment and delivering high-quality results by writing maintainable code, sharing experiences or implementing good DevOps practices and being positive.
 
 ## WORK EXPERIENCE
 
 ### Software engineer at [Schibsted](https://netguru.com)
 *`01.2021 - now`*
-> Keywords: `Node.js` `Typescript` `AWS` `Kubernetes` `DevOps` `Heroku`
+> Keywords: `Node.js` `Typescript` `AWS` `Kubernetes` `Heroku`
 
 ### Node.js developer at [Netguru](https://netguru.com)
 *`06.2019 - 12.2020`*
 > I've been involved in numerous projects for clients in the real estate, medical and non-profit industries. My responsibilities range from developing, testing and maintaining APIs to evaluating projects, advising on potential technologies, or participating in the recruitment process.
 >
-> Keywords: `Node.js` `Typescript` `AWS` `GCP` `Kubernetes` `Graphql` `DevOps` `Serverless`
+> Keywords: `Node.js` `Typescript` `AWS` `GCP` `Kubernetes` `Graphql` `Serverless`
 
 ### Junior fullstack developer at [MDBootstrap](https://mdbootstrap.com)
 *`10.2018 - 06.2019`*
 > I was responsible for creating and maintaining a tool that enables code execution in browsers. This tool was mainly used by the support team to debbug and fix product problems better and faster, but was also used as a marketing tool to show the product's potential.
 >
-> Keywords: `Node.js` `Typescript` `Angular` `Jenskins` `PHP`
+> Keywords: `Node.js` `Typescript` `Angular` `Jenkins` `PHP`
 
 ## SKILLS
 

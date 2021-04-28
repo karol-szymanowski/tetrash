@@ -18,19 +18,15 @@
 
 ## SKILLS
 
-**Programming:** `Node.js` `Typescript` `Graphql` `Event-driven architecture` `Hexagonal architecture` `Serverless`
+**Programming:** `Node.js` `Typescript` `Graphql` `Express`
 
-**Devops:** `Azure devops` `CircleCI` `Terraform` `Pullumi` `Kubernetes` `Docker`
+**Devops:** `CircleCI` `Terraform` `Pullumi` `Kubernetes` `Docker` `AWS` `GCP`
 
-**Databases, queues & message brokers:** `Mysql/Mariadb` `Postgres` `MongoDB` `Redis` `Rabbitmq`
-
-**AWS services:** `RDS` `DynamoDB` `Datasync` `Api gateway` `Amplify` `EKS` `SQS` `SNS` `Kinesis` `S3` `Cognito` `Lambda` `EC2`
-
-**GCP services:** `Firebase` `GKE` `Cloud storage` `Cloud functions` `Cloud sql`
+**Databases, queues & message brokers:** `Mysql/Mariadb` `Postgres` `MongoDB` `Redis`
 
 **Projects & teams:** `Working in a distributed team` `Agile` `Scrum`
 
-**Languages:** `Polish - native` `English - B2`
+**Languages:** `Polish - native` `English - C1`
 
 ## CERTIFICATES
 
@@ -38,7 +34,9 @@
 
 [AWS - Certified Solutions Architect Associate](https://www.youracclaim.com/badges/18ca0a23-f1a3-4a7b-9d9c-815ff7528222/public_url)
 
-## PROJECTS
+## PROJECTS & ARTICLES
 
-#### [Highly available kubernetes cluster runnning on raspberry pi](https://github.com/tetrash/k8s-rpi-cluster-presentation)
+### [Highly available kubernetes cluster runnning on raspberry pi](https://github.com/tetrash/k8s-rpi-cluster-presentation)
 > I built a kubernetes cluster that runs on several raspberry pi and serves as my personal sandbox where I deploy my projects for a fraction of the cost of a cloud solution. I used ansible and k3s to automate the entire process and tools such as helm, prometheus or dex to improve monitoring, access and cluster management.
+
+### [The CKA Certificate From a Software Developer’s Perspective](https://www.netguru.com/codestories/the-cka-certificate-from-a-software-developers-perspective)

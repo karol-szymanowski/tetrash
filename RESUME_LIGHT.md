@@ -5,29 +5,31 @@
 
 ### Software engineer at [Schibsted](https://netguru.com)
 *`01.2021 - now`*
-> Keywords: `Node.js` `Typescript` `AWS` `Kubernetes` `Heroku`
+>
+>
+> Keywords: `Node.js` `Typescript` `AWS` `Kubernetes` `Heroku` `React`
 
 ### Node.js developer at [Netguru](https://netguru.com)
 *`06.2019 - 12.2020`*
-> I've been involved in numerous projects for clients in the real estate, medical and non-profit industries. My responsibilities range from developing, testing and maintaining APIs to evaluating projects, advising on potential technologies, or participating in the recruitment process.
+> I was involved in numerous projects for clients in the real estate, medical and non-profit industries. My responsibilities range from developing, testing, and maintaining APIs to evaluating projects, advising on potential technologies, or participating in the recruitment process.
 >
-> Keywords: `Node.js` `Typescript` `AWS` `GCP` `Kubernetes` `Graphql` `Serverless`
+> Keywords: `Node.js` `Typescript` `AWS` `GCP` `Kubernetes` `Graphql` `Serverless` `Agile/Scrum`
 
 ### Junior fullstack developer at [MDBootstrap](https://mdbootstrap.com)
 *`10.2018 - 06.2019`*
-> I was responsible for creating and maintaining a tool that enables code execution in browsers. This tool was mainly used by the support team to debbug and fix product problems better and faster, but was also used as a marketing tool to show the product's potential.
+> I was responsible for creating and maintaining a tool that enables code execution in browsers. The support team mainly used this tool to debug and fix product problems better and faster and was also used as a marketing tool to show the product's potential.
 >
 > Keywords: `Node.js` `Typescript` `Angular` `Jenkins` `PHP`
 
 ## SKILLS
 
-**Programming:** `Node.js` `Typescript` `Graphql` `Express`
+**Programming:** `Node.js` `Typescript` `Graphql` `Express` `Nest.js`
 
-**Devops:** `CircleCI` `Terraform` `Pullumi` `Kubernetes` `Docker` `AWS` `GCP`
+**Devops:** `CircleCI` `Terraform` `Pullumi` `Kubernetes` `Docker` `AWS` `GCP` `Helm` `Firebase`
 
 **Databases, queues & message brokers:** `Mysql/Mariadb` `Postgres` `MongoDB` `Redis`
 
-**Projects & teams:** `Working in a distributed team` `Agile` `Scrum`
+**Projects & teams:** `Working in a distributed agile team`
 
 **Languages:** `Polish - native` `English - C1`
 
@@ -40,6 +42,7 @@
 ## PROJECTS & ARTICLES
 
 [Highly available kubernetes cluster runnning on raspberry pi](https://github.com/tetrash/k8s-rpi-cluster-presentation)
-> I built a kubernetes cluster that runs on several raspberry pi and serves as my personal sandbox where I deploy my projects for a fraction of the cost of a cloud solution. I used ansible and k3s to automate the entire process and tools such as helm, prometheus or dex to improve monitoring, access and cluster management.
+> I built a kubernetes cluster that runs on several raspberry pi and serves as my sandbox where I deploy my projects for a fraction of the cost of a cloud solution. I used ansible and k3s to automate the entire process and tools such as helm, prometheus or dex to improve monitoring, access and cluster management.
 
 [The CKA Certificate From a Software Developer’s Perspective](https://www.netguru.com/codestories/the-cka-certificate-from-a-software-developers-perspective)
+> Article on the CKA certificate. In it, I share my experiences and tips on how to pass this certificate.
